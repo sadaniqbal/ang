@@ -1,0 +1,6 @@
+Github: https://github.com/sadaniqbal/Tutorial-Angular
+
+Netlify: https://vibrant-fermat-e25ae0.netlify.com/
+
+
+How to deploy angular sites: https://github.com/csulbying/angular-book/blob/master/appendix/deploy-to-netlify.md
